@@ -12,6 +12,7 @@ struct NewWaveStoreApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            
         }
     }
 }
