@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CBBB5990292BB2A20095F610 /* ProductList.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBBB598F292BB2A20095F610 /* ProductList.swift */; };
 		CBEF66A7292BA81400EFE371 /* NewWaveStoreApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBEF66A6292BA81400EFE371 /* NewWaveStoreApp.swift */; };
 		CBEF66A9292BA81400EFE371 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBEF66A8292BA81400EFE371 /* ContentView.swift */; };
 		CBEF66AB292BA81500EFE371 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CBEF66AA292BA81500EFE371 /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CBBB598F292BB2A20095F610 /* ProductList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductList.swift; sourceTree = "<group>"; };
 		CBEF66A3292BA81400EFE371 /* NewWaveStore.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NewWaveStore.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CBEF66A6292BA81400EFE371 /* NewWaveStoreApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewWaveStoreApp.swift; sourceTree = "<group>"; };
 		CBEF66A8292BA81400EFE371 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -73,6 +75,7 @@
 		CBEF66B6292BAC6400EFE371 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				CBBB598F292BB2A20095F610 /* ProductList.swift */,
 				CBEF66B4292BAA8800EFE371 /* Product.swift */,
 			);
 			path = Model;
@@ -157,6 +160,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CBEF66A9292BA81400EFE371 /* ContentView.swift in Sources */,
+				CBBB5990292BB2A20095F610 /* ProductList.swift in Sources */,
 				CBEF66A7292BA81400EFE371 /* NewWaveStoreApp.swift in Sources */,
 				CBEF66B5292BAA8800EFE371 /* Product.swift in Sources */,
 			);
